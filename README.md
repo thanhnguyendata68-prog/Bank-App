@@ -21,3 +21,6 @@ This project uses Tailwind CSS to build the user interface
 ### Step 4: Create types/index.d.ts
 Ts: enforce strict type checking and define global types for user authentication flows, Net.js routing paramenters, and payment system integration
 
+### Step 5 : Downlaod tailwind-merge and query-string zod
+
+npm install clsx tailwind-merge query-string zod
