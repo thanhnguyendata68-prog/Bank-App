@@ -17,3 +17,7 @@ choose Radix UI, NOVA
 
 ### Step 3: Create tailwind.config.ts
 This project uses Tailwind CSS to build the user interface
+
+### Step 4: Create types/index.d.ts
+Ts: enforce strict type checking and define global types for user authentication flows, Net.js routing paramenters, and payment system integration
+
