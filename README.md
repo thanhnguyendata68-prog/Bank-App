@@ -26,3 +26,6 @@ Ts: enforce strict type checking and define global types for user authentication
 npm install clsx tailwind-merge query-string zod
 
 UI & Utilities: Combines clsx and tailwind-merge to resolve dynamic class conflicts, along with query-string and zod for input data validation and sanitization.
+
+### Step 6 : Create constants folder and index.ts
+Contain the static constant: list of sidebar, routes, mockup test data
