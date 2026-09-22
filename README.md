@@ -24,3 +24,5 @@ Ts: enforce strict type checking and define global types for user authentication
 ### Step 5 : Downlaod tailwind-merge and query-string zod
 
 npm install clsx tailwind-merge query-string zod
+
+UI & Utilities: Combines clsx and tailwind-merge to resolve dynamic class conflicts, along with query-string and zod for input data validation and sanitization.
