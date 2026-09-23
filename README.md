@@ -29,3 +29,6 @@ UI & Utilities: Combines clsx and tailwind-merge to resolve dynamic class confli
 
 ### Step 6 : Create constants folder and index.ts
 Contain the static constant: list of sidebar, routes, mockup test data
+
+### Step 7 : Create api/layout.tsx
+Root Application Layout (configured with Google Fonts, SEO, Metadata, and forcred dynamic SSR)
