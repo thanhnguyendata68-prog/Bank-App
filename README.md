@@ -32,3 +32,7 @@ Contain the static constant: list of sidebar, routes, mockup test data
 
 ### Step 7 : Create api/layout.tsx
 Root Application Layout (configured with Google Fonts, SEO, Metadata, and forcred dynamic SSR)
+
+- Create page.tsx that main dashboard page (displays balance, financial charts, and recent transactions)
+
+- Create the layout.tsx inside (root) folder in app that shared layout for main pages (includes Sidebar, Navbar, and main content)
