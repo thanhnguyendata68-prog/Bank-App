@@ -36,3 +36,13 @@ Root Application Layout (configured with Google Fonts, SEO, Metadata, and forcre
 - Create page.tsx that main dashboard page (displays balance, financial charts, and recent transactions)
 
 - Create the layout.tsx inside (root) folder in app that shared layout for main pages (includes Sidebar, Navbar, and main content)
+
+### Step 8: Create (auth)
+sign-in # User login page
+sign-up # Account registration page
+
+---------------------------------
+Get error first time about 
+Warning: Module not found: Can't resolve 'tailwindcss-animate'
+
+Solve : npm install tailwindcss-animate
