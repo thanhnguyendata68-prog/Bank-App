@@ -67,3 +67,10 @@ npm uninstall @tailwindcss/postcss tailwindcss
 npm install -D tailwindcss@^3.4.1 postcss autoprefixer
 
 And update it to postcss.config.mjs
+
+### Step 11: Implement Total Balance Overview & Animation
+
+- AnimatedCounter (`components/AnimatedCounter.tsx`): Built a client component leveraging 'react-countup' for smooth balance counting transitions.
+- TotalBalanceBox (`components/TotalBalanceBox.tsx`): Implemented the total balance container showing linked banks count and total current balance.
+- Tailwind & PostCSS Fix (`globals.css`, `postcss.config.mjs`): Normalized PostCSS and Tailwind directives for custom design system utility classes.
+- Dashboard Integration (`app/(root)/page.tsx`) : Integrated `<TotalBalanceBox />` alongside `<HeaderBox />` to complete the Home dashboard overview header.
