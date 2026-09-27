@@ -74,3 +74,7 @@ And update it to postcss.config.mjs
 - TotalBalanceBox (`components/TotalBalanceBox.tsx`): Implemented the total balance container showing linked banks count and total current balance.
 - Tailwind & PostCSS Fix (`globals.css`, `postcss.config.mjs`): Normalized PostCSS and Tailwind directives for custom design system utility classes.
 - Dashboard Integration (`app/(root)/page.tsx`) : Integrated `<TotalBalanceBox />` alongside `<HeaderBox />` to complete the Home dashboard overview header.
+
+### Install chart.js
+npm install chart.js
+npm install react-chartjs-2
