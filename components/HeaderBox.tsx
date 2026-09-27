@@ -10,7 +10,6 @@ const HeaderBox = ({ type = "title", title, user, subtext } : HeaderBoxProps) =>
         )}
       </h1>
       <p className="header-box-subtext">{subtext}</p>
-
     </div>
   )
 }

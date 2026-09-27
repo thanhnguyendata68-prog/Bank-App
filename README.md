@@ -46,3 +46,24 @@ Get error first time about
 Warning: Module not found: Can't resolve 'tailwindcss-animate'
 
 Solve : npm install tailwindcss-animate
+
+### Step 9: Adjust page.tsx in (root) folder
+- Created `components/ui/HeaderBox.tsx`
+- Integrate HeaderBox component into the dashboard page to render a personlaized welcome message and account overview description.
+
+### Step 10:
+
+install:  npm install query-string
+--> for formatAmount (TotalBalanceBox.tsx)
+
+install: npm install react-countup
+--> for count number up
+
+## Got error with global.css 
+uninstall tailwind v4 andinstall tailwin css v3
+
+npm uninstall @tailwindcss/postcss tailwindcss
+
+npm install -D tailwindcss@^3.4.1 postcss autoprefixer
+
+And update it to postcss.config.mjs
