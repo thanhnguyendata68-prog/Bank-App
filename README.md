@@ -85,3 +85,9 @@ https://ui.shadcn.com/docs/components/base/sheet
 install : npx shadcn@latest add sheet
 
 and import also
+
+### Step 13: 
+- Implement Sidebar component for desktop navigation
+- Add MobileNav component using Sheet primitive for mobile drawer
+- Update root layout with responsive wrapper and mock loggedIn user state
+- Update README documentation
