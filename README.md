@@ -78,3 +78,10 @@ And update it to postcss.config.mjs
 ### Install chart.js
 npm install chart.js
 npm install react-chartjs-2
+
+### Step 12: Using Sheet 
+https://ui.shadcn.com/docs/components/base/sheet
+
+install : npx shadcn@latest add sheet
+
+and import also
