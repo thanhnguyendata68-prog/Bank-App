@@ -91,3 +91,10 @@ and import also
 - Add MobileNav component using Sheet primitive for mobile drawer
 - Update root layout with responsive wrapper and mock loggedIn user state
 - Update README documentation
+
+### Step 14:
+- Integrate RightSidebar component displaying user profile and bank cards
+- Style home dashboard layout with responsive breakpoints for desktop and mobile
+- Fix layout wrappers in page.tsx and RootLayout
+- Update project README with full documentation
+
