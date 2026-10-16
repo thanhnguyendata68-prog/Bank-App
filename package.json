@@ -9,6 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@hookform/resolvers": "^5.9.1",
+    "@radix-ui/react-label": "^2.1.16",
+    "@radix-ui/react-slot": "^1.4.0",
     "chart": "^0.1.2",
     "chart.js": "^4.5.1",
     "class-variance-authority": "^0.7.1",
@@ -22,6 +25,7 @@
     "react-chartjs-2": "^5.3.1",
     "react-countup": "^6.5.3",
     "react-dom": "19.2.8",
+    "react-hook-form": "^7.89.0",
     "shadcn": "^4.21.0",
     "tailwind-merge": "^3.7.0",
     "tailwindcss-animate": "^1.0.7",

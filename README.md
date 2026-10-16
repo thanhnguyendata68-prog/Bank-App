@@ -31,7 +31,7 @@ UI & Utilities: Combines clsx and tailwind-merge to resolve dynamic class confli
 Contain the static constant: list of sidebar, routes, mockup test data
 
 ### Step 7 : Create api/layout.tsx
-Root Application Layout (configured with Google Fonts, SEO, Metadata, and forcred dynamic SSR)
+Root Application Layout (configured wipth Google Fonts, SEO, Metadata, and forcred dynamic SSR)
 
 - Create page.tsx that main dashboard page (displays balance, financial charts, and recent transactions)
 
@@ -98,3 +98,14 @@ and import also
 - Fix layout wrappers in page.tsx and RootLayout
 - Update project README with full documentation
 
+### Step 15: 
+download form
+npx shadcn@latest add form
+
+npm install react-hook-form @hookform/resolvers zod
+
+npx shadcn@latest add form button input
+
+npm install react-hook-form @hookform/resolvers zod @radix-ui/react-label @radix-ui/react-slot
+
+npx shadcn@latest add form -y
